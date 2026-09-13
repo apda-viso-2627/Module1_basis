@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Detective\**" />
+    <Compile Remove="EersteProgramma\**" />
+    <Compile Remove="Keuze\**" />
+    <Compile Remove="Naamkaartje\**" />
+    <Compile Remove="Variabelen\**" />
+    <EmbeddedResource Remove="Detective\**" />
+    <EmbeddedResource Remove="EersteProgramma\**" />
+    <EmbeddedResource Remove="Keuze\**" />
+    <EmbeddedResource Remove="Naamkaartje\**" />
+    <EmbeddedResource Remove="Variabelen\**" />
+    <None Remove="Detective\**" />
+    <None Remove="EersteProgramma\**" />
+    <None Remove="Keuze\**" />
+    <None Remove="Naamkaartje\**" />
+    <None Remove="Variabelen\**" />
+  </ItemGroup>
+
+</Project>

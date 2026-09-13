@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Detective/Detective.csproj" />
+  <Project Path="EersteProgramma/EersteProgramma.csproj" />
+  <Project Path="Keuze/Keuze.csproj" />
+  <Project Path="Les01_kennismaken.csproj" />
+  <Project Path="Naamkaartje/Naamkaartje.csproj" />
+  <Project Path="Variabelen/Variabelen.csproj" />
+</Solution>
